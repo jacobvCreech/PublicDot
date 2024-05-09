@@ -885,3 +885,4 @@ export default function Home() {
 // Update on 2024-05-06 21:39:44: Code cleanup - 5040
 // Update on 2024-05-08 21:31:37: Added new feature - 5761
 // Update on 2024-05-08 20:08:45: Updated README - 4986
+// Update on 2024-05-09 12:48:39: Refactored function - 2513
