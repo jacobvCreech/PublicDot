@@ -898,3 +898,4 @@ export default function Home() {
 // Update on 2024-05-17 13:02:13: Small UI tweak - 3667
 // Update on 2024-05-18 12:40:01: Minor documentation update - 1871
 // Update on 2024-05-18 20:23:59: Added new feature - 6725
+// Update on 2024-05-19 21:05:41: Refactored function - 4833
