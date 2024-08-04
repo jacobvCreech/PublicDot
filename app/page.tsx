@@ -995,3 +995,4 @@ export default function Home() {
 // Update on 2024-08-01 09:05:15: Fix minor bug - 4517
 // Update on 2024-08-02 20:12:58: Small UI tweak - 1587
 // Update on 2024-08-03 14:15:08: Updated README - 4546
+// Update on 2024-08-04 17:30:14: Refactored some code - 1708
