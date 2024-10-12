@@ -519,3 +519,4 @@ export default function Home() {
 // Update on 2024-10-10 17:25:09: Fix minor bug - 7926
 // Update on 2024-10-11 10:44:39: Minor documentation update - 1526
 // Update on 2024-10-11 13:06:15: Fix minor bug - 9979
+// Update on 2024-10-12 21:24:12: Updated README - 1447
