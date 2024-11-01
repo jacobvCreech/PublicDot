@@ -562,3 +562,4 @@ export default function Home() {
 // Update on 2024-10-29 10:26:40: Refactored some code - 8523
 // Update on 2024-10-30 18:22:10: Updated dependencies - 3930
 // Update on 2024-10-31 10:07:51: Minor documentation update - 4222
+// Update on 2024-11-01 14:58:10: Updated README - 1205
