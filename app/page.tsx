@@ -609,3 +609,4 @@ export default function Home() {
 // Update on 2024-11-21 12:00:56: Improved performance - 6668
 // Update on 2024-11-21 18:04:43: Refactored some code - 7552
 // Update on 2024-11-22 20:32:04: Updated README - 7599
+// Update on 2024-11-22 17:16:54: Minor documentation update - 5549
