@@ -1360,3 +1360,4 @@ export default function Home() {
 // Update on 2025-03-28 12:58:23: Added new feature - 3169
 // Update on 2025-03-28 17:15:28: Code cleanup - 2143
 // Update on 2025-03-28 10:47:24: Improved performance - 9794
+// Update on 2025-04-01 18:05:01: Refactored function - 4082
